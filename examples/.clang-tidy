@@ -1,0 +1,9 @@
+---
+Checks: 'clang-diagnostic-*,
+clang-analyzer-*,
+cppcoreguidelines-*,
+-modernize-*,
+-cppcoreguidelines-non-private-member-variables-in-classes,
+-cppcoreguidelines-macro-usage,
+-cppcoreguidelines-avoid-magic-numbers'
+HeaderFilterRegex: ''
