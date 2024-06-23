@@ -4,6 +4,7 @@ A header-only library providing a reactive layer on top of FLTK.
 
 ## Example
 ```c++
+// Simple counter app
 #include <reactif/reactif.hpp>
 
 using namespace rf;
@@ -61,6 +62,7 @@ int main(int argc, char **argv) {
 ```
 
 ```c++
+// Simple greeter app
 #include <reactif/reactif.hpp>
 
 using namespace rf;
